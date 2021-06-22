@@ -1,0 +1,2 @@
+# GraduationProject-Processing-KinectV2
+2021本科毕业设计，基于Processing和Kinect的交互动效作品。
